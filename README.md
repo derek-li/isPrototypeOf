@@ -1,0 +1,2 @@
+# isPrototypeOf
+for practice
